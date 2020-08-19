@@ -1,0 +1,7 @@
+[
+  { "hour": 12, "cycle": 10, "time": 90 },
+  { "hour": 13, "cycle": 20, "time": 20 },
+  { "hour": 15, "cycle": 30, "time": 55 },
+  { "hour": 15, "cycle": 40, "time": 16 },
+  { "hour": 15, "cycle": 50, "time": 38 }
+]
